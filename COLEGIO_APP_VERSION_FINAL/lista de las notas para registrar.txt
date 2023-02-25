@@ -1,0 +1,17 @@
+calculo:
+
+taller numeros reales
+
+tarea inecuaciones
+
+taller sobre funciones
+
+quizz sobre funciones
+
+tarea de limites de funciones 
+
+taller sobre derivadas
+
+quizz sobre aplicacion de la derivada
+
+taller integrales
